@@ -3,7 +3,7 @@
 using namespace std;
 class arr
 {
-    int a[100];
+    int a[100];ff
 
 public:
     void insert(int n)
